@@ -6,7 +6,7 @@ For the plugin to work you must place notion-sync folder into the plugins folder
 You must also install the following packages for python which you can do using pip:
 
 
-$ python -m pip install requests
+$ pip install requests
 
 $ pip install notion2md
 
