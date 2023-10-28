@@ -31,9 +31,7 @@ headers = {
 }
 
 def get_pages(num_pages=None):
-    """
-    If num_pages is None, get all pages, otherwise just the defined number.
-    """
+    
     url = f"https://api.notion.com/v1/databases/{DATABASE_ID}/query"
 
     get_all = num_pages is None
