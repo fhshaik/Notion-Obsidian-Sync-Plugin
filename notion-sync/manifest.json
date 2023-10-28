@@ -1,0 +1,12 @@
+{
+    "id": "notion-sync-plugin",
+    "name": "Notion Sync",
+    "version": "1.0.0",
+    "description": "Sync Notion files to Obsidian",
+    "author": "fhshaik",
+    "main": "main.js",
+    "icon": "icon.png",
+    "dependencies": {
+        "obsidian": ">=0.12.0"
+    }
+}
